@@ -1,5 +1,10 @@
 
 
+// Rules
+//public void example(int... values, String... words) { }
+//public void example(String name, int... values) { }
+//public void example(int... values, String name) { }
+
 public class VarArgs {
     public static void main(String[] args) {
         printNumbers(1, 2, 3, 4, 5);  // Output: 1 2 3 4 5
